@@ -1,6 +1,6 @@
 # music_app
 
-A simplre music player.
+A simple music player.
 
 the song used is Blesses by NEFFEX
 https://twitter.com/neffex?s=20
