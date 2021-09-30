@@ -1,6 +1,8 @@
 # music_app
 
 A new Flutter project.
+the song used is Blesses by NEFFEX
+https://twitter.com/neffex?s=20
 
 ## Getting Started
 
