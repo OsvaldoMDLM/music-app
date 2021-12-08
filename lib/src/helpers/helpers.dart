@@ -1,4 +1,3 @@
-/*https://music.apple.com/es/artist/neffex/1143134709*/
 List<String> getLyrics() {
   return [
     'I got \'em comin at me, all angles',
