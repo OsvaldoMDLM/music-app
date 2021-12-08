@@ -2,7 +2,7 @@
 
 A simple music player.
 
-the song used is Blesses by NEFFEX
+the song used is Blessed by NEFFEX
 https://twitter.com/neffex?s=20
 
 ## Getting Started
