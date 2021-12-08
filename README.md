@@ -1,6 +1,9 @@
 # music_app
 
-A new Flutter project.
+A simple music player.
+
+the song used is Blessed by NEFFEX
+https://twitter.com/neffex?s=20
 
 ## Getting Started
 
